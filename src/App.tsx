@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { type Doc, initJuno, setDoc } from "@junobuild/core-peer";
 
+// added comment
+
 type Record = {
   hello: string;
 };
